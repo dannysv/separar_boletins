@@ -23,7 +23,7 @@
 			separar_boletins/
 				jar/
 
-2) Editar os textos(com pdfbox)
+2) Editar os boletins(com pdfbox)
 	- Como entrada recebe os pastas que contem os boletins
 	- Adicionar uma página com um label, no caso com o texto "### new line ###"
 		- requisitos
