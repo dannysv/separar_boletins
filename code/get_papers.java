@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class get_papers_2{
+public class get_papers{
 	public static void main(String[] args)throws IOException{
 		String path_pdf1 = "../data/Boletins/Boletins1/";
 		String path_out1 = "../papers/Boletins/Boletins1/";

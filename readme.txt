@@ -76,6 +76,7 @@
 		- python criar.py
 		- javac -cp ../jar/pdfbox-app-2.0.1.jar:. edit_pdf.java(compilar)
  		- java -cp ../jar/pdfbox-app-2.0.1.jar:. edit_pdf(executar)
+		- python get_indicespapers.py
 		- javac -cp ../jar/pdfbox-app-2.0.1.jar:. get_papers.java
  		- java -cp ../jar/pdfbox-app-2.0.1.jar:. get_papers
 		- python textract_pdfminer.py

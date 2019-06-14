@@ -174,6 +174,10 @@ def get_indexs_folder(path_pdfedit, path_txt, path_indexs, path_noenc):
             noen_p.write(path_pdfedit+item + '\n')
     noen_p.close()
 
+# Extrair os textos dos pdfs editados
+#comm = 'python texts_edit.py'
+#os.system(comm)
+
 # Executar por pastas
 
 path_noenc = '../noenc/Boletins/Boletins1/'

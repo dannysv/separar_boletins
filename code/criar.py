@@ -10,7 +10,7 @@ os.system('mkdir ../texts_edit')
 
 lista = os.listdir('../')
 for item in lista:
-    if item in ['data','indexs', 'noenc', 'papers', 'papers_text', 'temp', 'text_edit']:
+    if item in ['data','indexs', 'noenc', 'papers', 'papers_text', 'temp', 'texts_edit']:
         print('mkdir ' + os.path.join(os.path.join('../', item), 'Boletins'))
         os.system('mkdir ' + os.path.join(os.path.join('../', item), 'Boletins'))
         os.system('mkdir ' + os.path.join(os.path.join('../', item), 'Boletins/Boletins1'))
