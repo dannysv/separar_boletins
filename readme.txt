@@ -68,7 +68,7 @@
 
 7) Repositorio
 	Finalmente, o repositorio é disponibilazado em:
-		- 
+		- https://github.com/dannysv/separar_boletins
 	Para poder executar os scripts do repositorio seguir os passos:
 	a) git clone link
 	c) copiar os pdfs(boletins) nas pastas e a livraria java conforme é descrito na parte "1.e" e "1.f" 
